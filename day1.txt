@@ -1,0 +1,15 @@
+# Day 1 bookings for the vaccination drive
+BOOK|Grace Kim|67|elderly|morning|GP
+BOOK|Omar Haddad|34|healthcare|morning|
+BOOK|Lily Chen|22|general|morning|GP
+BOOK|Arthur Bell|81|elderly|morning|
+BOOK|Sam Ortiz|45|general|morning|
+BOOK|Priya Nair|29|healthcare|afternoon|GP
+BOOK|Tom Reid|58|elderly|afternoon|
+BOOK|grace kim|70|general|afternoon|
+BOOK|Mia Lopez|forty|general|afternoon|
+BOOK|Noah Fox|50|general|evening|
+CANCEL|Lily Chen
+BOOK|Sam Ortiz|45|general|morning|
+REPORT
+EXPORT
