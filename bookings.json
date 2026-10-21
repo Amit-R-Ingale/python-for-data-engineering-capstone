@@ -46,6 +46,15 @@
       "voucher": "GP",
       "seat": 1,
       "fee": 18.0
+    },
+    {
+      "name": "Rosa Diaz",
+      "age": 74,
+      "group": "elderly",
+      "session": "afternoon",
+      "voucher": "GP",
+      "seat": 2,
+      "fee": 18.0
     }
   ]
 }
