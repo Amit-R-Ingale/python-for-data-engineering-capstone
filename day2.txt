@@ -1,0 +1,5 @@
+# Day 2: late registrations arrive through standard input
+BOOK|Rosa Diaz|74|elderly|afternoon|gp
+BOOK|Omar Haddad|34|healthcare|afternoon|
+CANCEL|Nobody Here
+REPORT

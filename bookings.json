@@ -1,0 +1,51 @@
+{
+  "capacity_per_session": 4,
+  "base_fee": 20.0,
+  "bookings": [
+    {
+      "name": "Omar Haddad",
+      "age": 34,
+      "group": "healthcare",
+      "session": "morning",
+      "voucher": "",
+      "seat": 1,
+      "fee": 20.0
+    },
+    {
+      "name": "Arthur Bell",
+      "age": 81,
+      "group": "elderly",
+      "session": "morning",
+      "voucher": "",
+      "seat": 2,
+      "fee": 20.0
+    },
+    {
+      "name": "Grace Kim",
+      "age": 67,
+      "group": "elderly",
+      "session": "morning",
+      "voucher": "GP",
+      "seat": 3,
+      "fee": 18.0
+    },
+    {
+      "name": "Sam Ortiz",
+      "age": 45,
+      "group": "general",
+      "session": "morning",
+      "voucher": "",
+      "seat": 4,
+      "fee": 20.0
+    },
+    {
+      "name": "Priya Nair",
+      "age": 29,
+      "group": "healthcare",
+      "session": "afternoon",
+      "voucher": "GP",
+      "seat": 1,
+      "fee": 18.0
+    }
+  ]
+}
